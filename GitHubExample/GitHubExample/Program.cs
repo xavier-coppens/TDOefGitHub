@@ -10,7 +10,8 @@ namespace GitHubExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World.");
+            Console.WriteLine("I'll be riding shotgun underneath the hot sun ♪♫♪♫♫♪♪♪");
+            Console.ReadKey();
         }
     }
 }
